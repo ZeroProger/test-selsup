@@ -1,6 +1,6 @@
 ## Тестовое задание "Редактор параметров" для компании Selsup
 
-Деплой решения:
+Деплой решения: https://zeroproger.github.io/test-selsup/
 
 Весь код решения лежит в файле: `src/ParamsEditor.tsx`
 
